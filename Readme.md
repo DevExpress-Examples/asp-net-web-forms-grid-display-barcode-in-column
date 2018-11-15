@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Default.aspx](./CS/ASPxGridViewBarCode/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxGridViewBarCode/Default.aspx.vb))**
+* [Default.aspx.cs](./CS/ASPxGridViewBarCode/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxGridViewBarCode/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxGridView - How to display BarCode in a grid column
 
 
