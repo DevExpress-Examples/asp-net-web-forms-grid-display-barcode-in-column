@@ -3,7 +3,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/t280853/)**
 <!-- run online end -->
 
-This example demonstrates how to create a column's template, add a binary image control to the template, and use the **Bar Code Library** to display a bar code image.
+This example demonstrates how to create a column template, add a binary image control to that template, and use the **Bar Code Library** to display a bar code image.
 
 ![Display a bar code image in a column](barcodeImage.png)
 
