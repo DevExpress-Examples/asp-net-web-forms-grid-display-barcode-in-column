@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to display a bar code image in a column
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128533862/)**
-<!-- run online end -->
 
 This example demonstrates how to create a column template, add a binary image control to that template, and use the **Bar Code Library** to display a bar code image.
 
